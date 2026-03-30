@@ -68,6 +68,9 @@ dosbox_path = "C:\\DOSBox-X\\dosbox-x.exe"
 conf_content = """
 [dosbox]
 machine=pc98
+
+[sdl]
+autolock=true
 """
 ```
 
